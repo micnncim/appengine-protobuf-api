@@ -1,4 +1,3 @@
-service: dev
 runtime: go111
 
 env_variables:
