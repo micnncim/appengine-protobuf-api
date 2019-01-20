@@ -2,8 +2,8 @@ service: dev
 runtime: go111
 
 env_variables:
-  PROJECT_ID: appengine-protobuf-project
-  IMAGE_BUCKET: appengine-protobuf-project.appspot.com
+  PROJECT_ID: appengine-protobuf
+  IMAGE_BUCKET: appengine-protobuf.appspot.com
 
 instance_class: F1
 automatic_scaling:
